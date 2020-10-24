@@ -1,14 +1,12 @@
 # cibitung-cloud-template
 ini adalah website company profile pertama buatan saya
 
-fitur 
+> fitur 
 
-responsive
+- mobile friendly
 
-mobile friendly
+- simple
 
-simple
+> copyright 
 
-copyright issue 
-
-website ini open source tapi mohon untuk mencantunkan link github saya
+website ini open source silahkan di modifikasi heheheh
