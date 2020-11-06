@@ -401,7 +401,7 @@ footer i {
     }
 
     .icon {
-        margin-left: 30% ;
+       margin : 0 34% ;
     }
 
     .content-b h1 {
@@ -420,13 +420,14 @@ footer i {
 
     .kotak {
         width: 350px ;
-        height : 200px ;
+        height : 230px ;
+        opacity: 0.8 ;
     }
 
     .kotak img {
-        margin-top : 30px ;
-        width : 140px ;
-        height : 130px ;
+        margin-top : 35px ;
+        width : 145px ;
+        height : 150px ;
     }
 
     .kotak a {
@@ -436,6 +437,10 @@ footer i {
     .kotak p {
         font-size: 12px ;
         margin-top: -10px ;
+    }
+
+    .kotak:hover {
+        opacity : 1 ;
     }
 
 }
